@@ -4990,7 +4990,7 @@ execa@^4.0.0:
     signal-exit "^3.0.2"
     strip-final-newline "^2.0.0"
 
-exenv@^1.2.0:
+exenv@^1.2.0, exenv@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/exenv/-/exenv-1.2.2.tgz#2ae78e85d9894158670b03d47bec1f03bd91bb9d"
   integrity sha1-KueOhdmJQVhnCwPUe+wfA72Ru50=
@@ -9470,6 +9470,11 @@ react-lifecycles-compat@^3.0.0:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
+
+react-lifecycles@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/react-lifecycles/-/react-lifecycles-0.0.0.tgz#fe3367493ff49786b1f02783ff95f5feed194dee"
+  integrity sha1-/jNnST/0l4ax8CeD/5X1/u0ZTe4=
 
 react-modal@^3.14.3:
   version "3.14.3"
